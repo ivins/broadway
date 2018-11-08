@@ -19,3 +19,17 @@ h1 {
   font-size: 18px;
   color: white;
 }
+
+.content {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
