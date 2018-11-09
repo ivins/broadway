@@ -38,3 +38,10 @@ h3 {
 #white {
   color: white;
 }
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
